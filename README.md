@@ -6,9 +6,9 @@
 页面分为电脑端以及手机端
 
 ## 未登录页面
-```
 
-```
+未注册登录时，导航会显示“登录/注册”，且第一个大banner会提示登陆注册，随后是两个大banner显示博客内容，可以点击查看。
+
 
 ### Compiles and hot-reloads for development
 ```
